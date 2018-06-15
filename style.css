@@ -11,3 +11,16 @@ h1 {
   display: inline;
   padding-left: 10px;
 }
+
+#mainheader {
+}
+#mainheader img {
+  float: left;
+  padding: 10px;
+}
+#mainheader h1 {
+  font-size: 40px;
+}
+#mainheader h2 {
+  font-size: 36px;
+}
