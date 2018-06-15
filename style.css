@@ -1,21 +1,31 @@
 h1 {
 }
 
-.nav {
+.navbar{
+ background:#F97300;
 }
-.nav ul {
-  display: inline;
-  padding: 0;
+.nav-link , .navbar-brand{
+ color: #f4f4f4;
+ cursor: pointer;
 }
-.nav li {
-  display: inline;
-  padding-left: 10px;
+.nav-link{
+ margin-right: 1em !important;
 }
+.nav-link:hover{
+ background: #f4f4f4;
+ color: #f97300;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+
 
 #mainheader {
 }
 #mainheader img {
-  float: left;
   padding: 10px;
 }
 #mainheader h1 {
