@@ -1,0 +1,13 @@
+h1 {
+}
+
+.nav {
+}
+.nav ul {
+  display: inline;
+  padding: 0;
+}
+.nav li {
+  display: inline;
+  padding-left: 10px;
+}
